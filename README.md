@@ -1,16 +1,43 @@
-## Hi there 👋
 
-<!--
-**AymeneBoudali/AymeneBoudali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Aymene Boudali</h1>
+<h3 align="center">Backend Engineer · AI/ML Developer · Software Architect</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Building intelligent systems, scalable backends, and creative software.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About Me
+
+- Python developer focused on backend engineering
+- Building APIs and web applications
+- Exploring AI/ML and intelligent systems
+- Interested in game development and open source
+
+### Tech Stack
+
+**Languages:** Python, JavaScript, HTML, CSS
+
+**Backend:** Django, Flask, FastAPI
+
+**Databases:** SQLite, PostgreSQL
+
+**Tools:** Git, GitHub, Linux
+
+### Featured Projects
+
+- **Reno AI** — AI-powered application and API development
+- **Pixora** — A community platform for sharing art
+- **Europa Duty** — Administration duty management software
+
+### Current Focus
+
+Building useful software, improving system architecture,
+and turning ideas into working products.
+
+---
+
+<p align="center">
+  <i>From ideas to code. From code to creation.</i>
+</p>
