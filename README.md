@@ -1,8 +1,7 @@
-
 <p align="center">
   <img
     src="./aymene-boudali-header.svg"
-    alt="Aymene Boudali — AI, ML, Web, Android & Desktop Developer"
+    alt="Aymene Boudali - AI, ML, Web, Android & Desktop Developer"
     width="100%"
   />
 </p>
