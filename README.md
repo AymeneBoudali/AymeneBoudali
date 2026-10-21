@@ -7,41 +7,22 @@
 </p>
 
 <p align="center">
-  Building intelligent systems, scalable backends, and creative software.
+  <a href="https://yourwebsite.dev">
+    <img src="https://img.shields.io/badge/PORTFOLIO-yourwebsite.dev-00f5a0?style=for-the-badge&labelColor=0a0d14" />
+  </a>
+  <a href="https://linkedin.com/in/yourname">
+    <img src="https://img.shields.io/badge/LINKEDIN-Your%20Name-0A66C2?style=for-the-badge&labelColor=0a0d14" />
+  </a>
+  <a href="mailto:you@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-you@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0d14" />
+  </a>
+  <a href="https://t.me/yourusername">
+    <img src="https://img.shields.io/badge/TELEGRAM-@yourusername-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0a0d14" />
+  </a>
 </p>
 
----
-
-### About Me
-
-- Python developer focused on backend engineering
-- Building APIs and web applications
-- Exploring AI/ML and intelligent systems
-- Interested in game development and open source
-
-### Tech Stack
-
-**Languages:** Python, JavaScript, HTML, CSS
-
-**Backend:** Django, Flask, FastAPI
-
-**Databases:** SQLite, PostgreSQL
-
-**Tools:** Git, GitHub, Linux
-
-### Featured Projects
-
-- **Reno AI** — AI-powered application and API development
-- **Pixora** — A community platform for sharing art
-- **Europa Duty** — Administration duty management software
-
-### Current Focus
-
-Building useful software, improving system architecture,
-and turning ideas into working products.
-
----
-
 <p align="center">
-  <i>From ideas to code. From code to creation.</i>
+  <img src="https://komarev.com/ghpvc/?username=YOURGITHUB&label=PROFILE%20VIEWS&color=00f5a0&style=for-the-badge&labelColor=555555" />
+  <img src="https://img.shields.io/github/followers/YOURGITHUB?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&color=00f5a0&labelColor=0a0d14" />
+  <img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20HIRE-00f5a0?style=for-the-badge&labelColor=0a0d14" />
 </p>
