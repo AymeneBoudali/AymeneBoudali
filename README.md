@@ -1,6 +1,11 @@
 
-<h1 align="center">Aymene Boudali</h1>
-<h3 align="center">Backend Engineer · AI/ML Developer · Software Architect</h3>
+<p align="center">
+  <img
+    src="./aymene-boudali-header.svg"
+    alt="Aymene Boudali — AI, ML, Web, Android & Desktop Developer"
+    width="100%"
+  />
+</p>
 
 <p align="center">
   Building intelligent systems, scalable backends, and creative software.
