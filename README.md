@@ -6,6 +6,7 @@
   />
 </p>
 
+
 <!-- <h1 align="center">Aymene Boudali</h1> -->
 
 <!-- <h3 align="center">AI/ML Engineer 🇩🇿</h3> -->
@@ -24,6 +25,10 @@
   <a href="https://www.linkedin.com/in/aymeneboudali/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Collaborating%20with-Meriem%20Boudali-181717?style=flat-square&logo=github&logoColor=white" alt="Collaborating with Meriem Boudali" />
 </p>
 
 ---
